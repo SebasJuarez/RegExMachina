@@ -70,3 +70,5 @@ RegExMachina almacenará los resultados en la carpeta Resultados/, generando los
   - collections
   - sys
 
+## Video
+https://youtu.be/LKNQGSWPJgE
