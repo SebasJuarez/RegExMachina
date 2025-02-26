@@ -79,7 +79,7 @@ def process_file(file_path):
                 # Procesar las cadenas de simulación usando el AFD
                 afd_converter.process_input(input_strings)
 
-                 # Crear objeto AFD y agregar estados, transiciones y demás
+                # Crear objeto AFD y agregar estados, transiciones y demás
                 afd = AFD()
                 afd.add_states(dfa_states)
                 afd.add_symbols(dfa_symbols)
